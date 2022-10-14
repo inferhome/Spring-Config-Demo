@@ -1,2 +1,2 @@
-value1: some-val
-value2: another-val
+value1: "some-val"
+value2: "another-val"
